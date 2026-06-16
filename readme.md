@@ -1,0 +1,1 @@
+codex_perf_probe.py --repo . --repeats 3 --timeout 20 --out codex_perf_report.json
